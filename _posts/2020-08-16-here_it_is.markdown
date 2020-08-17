@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Here it is"
+date:       2020-08-17 02:56:44 +0000
+permalink:  here_it_is
+---
+
+
+It's finally here. The end of the course and with it hopefully graduation. I'm not really sure what is gonna happen (though I do hope I pass my assessment) but I have really enjoyed these last five months. I'm going to miss this and while I will always continue to learn even after my first job and beyond that I will miss this enviorment, my cohort lead and these lessons that made me ready for the future I will have as a coder.
